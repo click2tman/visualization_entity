@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Visualization Entity Charts feature.
+ */
+
+include_once 'visualization_entity_charts.features.inc';
